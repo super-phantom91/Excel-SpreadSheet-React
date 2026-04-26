@@ -49,7 +49,7 @@ A step by step series of examples that tell you how to get a development env run
 Download the NodeJS Project
 
 ```
-https://github.com/Super-Phantoms/react-excel-javascript 
+https://github.com/super-phantom91/Excel-SpreadSheet-React 
 ```
 
 Then install the dependencies
@@ -98,9 +98,9 @@ To Deploy this on a live system follow https://www.netlify.com/blog/2016/07/22/d
 
 ## Authors
 
-* **Super-Phantoms** 
+* **super-phantom91** 
 
-See also the list of [contributors](https://github.com/Super-Phantoms/) who participated in this project.
+See also the list of [contributors](https://github.com/super-phantom91/) who participated in this project.
 
 ## License
 
